@@ -1,0 +1,36 @@
+h1
+{
+    color:red;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body
+{
+    background-color: silver;
+}
+    
+.profile
+{
+    border: 5px salmon;
+    border-radius: 30px;
+    height: 200px;
+    width:300;
+}
+h2
+{
+    color:orange;
+    text-align: center;
+}
+p
+{
+    color:blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-style: solid;
+    text-align: center;
+}
+.list
+{
+    color: purple;
+    font-family: cursive;
+    text-align: center;
+}
